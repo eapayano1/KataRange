@@ -3,5 +3,5 @@
             [katarange.core :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+  (testing "Testing-include?"
+    (is (= (includes? "[2,5]" "{2,3,4,5}") true))))
