@@ -1,4 +1,4 @@
-### Problema: 11. Kata Range con 13. Clojure
+# Kata Range
 ### Requerimientos:
 -	El programa deberá ser capaz de realizar operaciones con intervalos.
 ### Criterios de aceptación:
